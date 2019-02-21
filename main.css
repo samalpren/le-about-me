@@ -1,0 +1,11 @@
+.name {
+    border: 1px dashed aqua;
+}
+
+.dateOfBirth {
+    font-style: italic;
+}
+
+.placeOfBirth {
+    background-color: #FF7F50;
+}
